@@ -5,14 +5,12 @@
 - 👯 I’m looking to collaborate on a big project!
 - 📫 How to reach me: atlasstreamofficial@gmail.com
 
-[![Visits Badge](https://badges.pufler.dev/visits/saltAxAtlas/saltAxAtlas)]
+[![Visits Badge]](https://badges.pufler.dev/visits/saltAxAtlas/saltAxAtlas)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/saltAxAtlas)
 
 I’m Salt, a Master's student studying computer engineering. I love working in embedded environments but have been branching out and trying new things.
 
 Want to know more about me? [Join the Discord!](https://discord.gg/r2uv8ATpJf)
-
-<br>
 
 ## 📌 Pinned Repositories
 
@@ -21,8 +19,6 @@ Want to know more about me? [Join the Discord!](https://discord.gg/r2uv8ATpJf)
 <a href="https://github.com/saltAxAtlas/discord_bot">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saltAxAtlas&repo=discord_bot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<br>
 
 <a href="https://github.com/saltAxAtlas/yare.io">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saltAxAtlas&repo=yare.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
