@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey 👋
 <br>
 
 I’m Salt, a Master's student studying computer engineering. I recently have been branching out and trying new things!
