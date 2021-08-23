@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+<br>
 
 - 🔭 I’m currently working on a Discord bot!
 - 🌱 I’m currently learning Elixir!
