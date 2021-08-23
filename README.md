@@ -9,9 +9,8 @@ I’m Salt, a Master's student studying computer engineering. I love working in 
 
 [![Visits Badge](https://badges.pufler.dev/visits/saltAxAtlas/saltAxAtlas)](https://github.com/saltAxAtlas)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/saltAxAtlas)
-[![Twitch Badge](https://img.shields.io/badge/twitch/status/:saltAxAtlas?style=social)]
+[![Twitch Badge](https://img.shields.io/badge/Twitch-Profile-informational?style=flat&logo=twitch&logoColor=white&color=1CA2F1)](https://twitch.tv/saltAxAtlas)
 [![Disocrd Badge](https://img.shields.io/badge/Discord-Server-blueviolet?style=flat&logo=discord&logoColor=white&color=1CA2F1)](https://discord.gg/r2uv8ATpJf)
-Want to know more about me? [Join the Discord!](https://discord.gg/r2uv8ATpJf)
 
 ## 📌 Pinned Repositories
 
