@@ -1,6 +1,6 @@
 ## Hi there 👋
-
 <br>
+I’m Salt, a Master's student studying computer engineering. I love working in embedded environments but have been branching out and trying new things.
 
 - 🔭 I’m currently working on a Discord bot!
 - 🌱 I’m currently learning Elixir!
@@ -9,9 +9,8 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/saltAxAtlas/saltAxAtlas)](https://github.com/saltAxAtlas)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/saltAxAtlas)
-
-I’m Salt, a Master's student studying computer engineering. I love working in embedded environments but have been branching out and trying new things.
-
+[![Twitch Badge](https://img.shields.io/badge/twitch/status/:saltAxAtlas?style=social)]
+[![Disocrd Badge](https://img.shields.io/badge/Discord-Server-blueviolet?style=flat&logo=discord&logoColor=white&color=1CA2F1)](https://discord.gg/r2uv8ATpJf)
 Want to know more about me? [Join the Discord!](https://discord.gg/r2uv8ATpJf)
 
 ## 📌 Pinned Repositories
