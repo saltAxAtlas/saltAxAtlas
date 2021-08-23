@@ -1,7 +1,6 @@
 ## Hi there 👋
 <br>
-
-I’m Salt, a Master's student studying computer engineering. I love working in embedded environments but have been branching out and trying new things.
+I’m Salt, a Master's student studying computer engineering. I recently have been branching out and trying new things!
 
 
 - 🔭 I’m currently working on a Discord bot!
