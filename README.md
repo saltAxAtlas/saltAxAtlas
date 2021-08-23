@@ -3,7 +3,6 @@
 
 I’m Salt, a Master's student studying computer engineering. I recently have been branching out and trying new things!
 
-
 - 🔭 I’m currently working on a Discord bot!
 - 🌱 I’m currently learning Elixir!
 - 👯 I’m looking to collaborate on a big project!
