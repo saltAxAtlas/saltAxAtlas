@@ -46,7 +46,7 @@ I’m Salt, a Master's student studying computer engineering. I recently have be
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=Perl&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=Elixir&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
