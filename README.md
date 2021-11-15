@@ -32,8 +32,6 @@
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=Elixir&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Verilog-informational?style=flat&logo=Verilog&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-VHDL-informational?style=flat&logo=VHDL&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
