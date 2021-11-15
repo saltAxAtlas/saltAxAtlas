@@ -1,13 +1,3 @@
-## Hey 👋
-
-- 🔭 I’m currently working on a Twitch chat bot!
-- 🌱 I’m currently learning Elixir & Svelte!
-
-[![Visits Badge](https://badges.pufler.dev/visits/saltAxAtlas/saltAxAtlas)](https://github.com/saltAxAtlas)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/saltAxAtlas)
-[![Twitch Badge](https://img.shields.io/badge/Twitch-Profile-informational?style=flat&logo=twitch&logoColor=white&color=1CA2F1)](https://twitch.tv/saltAxAtlas)
-[![Disocrd Badge](https://img.shields.io/badge/Discord-Server-blueviolet?style=flat&logo=discord&logoColor=white&color=1CA2F1)](https://discord.gg/r2uv8ATpJf)
-
 ## 📌 Pinned Repositories
 
 <br>
@@ -54,3 +44,10 @@
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 </details>
+
+<br>
+
+[![Visits Badge](https://badges.pufler.dev/visits/saltAxAtlas/saltAxAtlas)](https://github.com/saltAxAtlas)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/saltAxAtlas)
+[![Twitch Badge](https://img.shields.io/badge/Twitch-Profile-informational?style=flat&logo=twitch&logoColor=white&color=1CA2F1)](https://twitch.tv/saltAxAtlas)
+[![Disocrd Badge](https://img.shields.io/badge/Discord-Server-blueviolet?style=flat&logo=discord&logoColor=white&color=1CA2F1)](https://discord.gg/r2uv8ATpJf)
