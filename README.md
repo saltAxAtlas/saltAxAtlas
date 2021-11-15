@@ -1,12 +1,7 @@
 ## Hey 👋
-<br>
-
-I’m Salt, a Master's student studying computer engineering. I recently have been branching out and trying new things!
 
 - 🔭 I’m currently working on a Twitch chat bot!
-- 🌱 I’m currently learning Elixir!
-- 👯 I’m looking to collaborate on a big project!
-- 📫 How to reach me: atlasstreamofficial@gmail.com
+- 🌱 I’m currently learning Elixir & Svelte!
 
 [![Visits Badge](https://badges.pufler.dev/visits/saltAxAtlas/saltAxAtlas)](https://github.com/saltAxAtlas)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/saltAxAtlas)
@@ -47,6 +42,8 @@ I’m Salt, a Master's student studying computer engineering. I recently have be
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=Elixir&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Verilog-informational?style=flat&logo=Verilog&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-VHDL-informational?style=flat&logo=VHDL&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -57,5 +54,3 @@ I’m Salt, a Master's student studying computer engineering. I recently have be
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 </details>
-
-<br>
